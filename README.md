@@ -5,7 +5,7 @@ Experienced React developer with a focus on crafting dynamic and performant web 
 
 I thrive in collaborative environments, emphasizing open communication and teamwork. Throughout my career, I've successfully collaborated with cross-functional teams to deliver innovative solutions aligned with business goals.
 
-Fluent in English at a native level, combined with my experience in effectively working with remote teams, allows me to communicate and contribute to any project seamlessly.
+Fluent in English at a native level, combined with my experience in effectively working with remote teams, allows me to communicate and contribute to any project seamlessly
 
 🛠 Skills
 

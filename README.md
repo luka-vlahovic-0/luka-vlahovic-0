@@ -11,6 +11,7 @@ Fluent in English at a native level, combined with my experience in effectively 
 🛠 Skills
 
 REACT.JS  |
+NEXT.JS |
 TYPESCRIPT  |
 TAILWINDCSS |
 JAVASCRIPT (ES6+)  |

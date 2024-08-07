@@ -1,4 +1,4 @@
-#### Experienced Frontend React Developer 
+#### Frontend React Developer 
 **About Me**
 
 Experienced Frontend React developer with a focus on crafting dynamic and performant web applications. Specializing in frontend development and user-centric design, I bring proficiency in React.js, Tailwind, TypeScript, Next.js, JavaScript (ES6+), Redux, and responsive design. Collaborative and adaptable, I thrive in agile environments. Check out my work on my personal website and feel free to contact me!

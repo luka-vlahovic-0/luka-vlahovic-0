@@ -1,5 +1,6 @@
 #### Frontend React Developer 
-**About Me**
+
+## **About Me**
 
 As a seasoned **Frontend React Developer** with over **five years of experience**, I bring a deep understanding of modern web development, specializing in **React**, **TypeScript**, **TailwindCSS**, **Next.js**, and **Redux**. I have contributed to numerous web projects since 2019.
 

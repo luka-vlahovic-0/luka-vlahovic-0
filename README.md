@@ -1,12 +1,11 @@
 #### Frontend React Developer 
 **About Me**
 
-Experienced Frontend React developer with a focus on crafting dynamic and performant web applications. Specializing in frontend development and user-centric design, I bring proficiency in React.js, Tailwind, TypeScript, Next.js, JavaScript (ES6+), Redux, and responsive design. Collaborative and adaptable, I thrive in agile environments. Check out my work on my personal website and feel free to contact me!
-Let's connect on [LinkedIn](https://www.linkedin.com/in/luka-vlahovic-657162281/)!
+As a seasoned **Frontend React Developer** with over **five years of experience**, I bring a deep understanding of modern web development, specializing in **React**, **TypeScript**, **TailwindCSS**, **Next.js**, and **Redux**. I have contributed to numerous web projects since 2019.
 
-I thrive in collaborative environments, emphasizing open communication and teamwork. Throughout my career, I've successfully collaborated with cross-functional teams to deliver innovative solutions aligned with business goals.
+You can contact me via **[LinkedIn](https://www.linkedin.com/in/luka-vlahovic-657162281/)**, **[email](mailto:luka.vlahovic564@gmail.com)** or check out my **[personal website](https://lukavlahovic.com)**
 
-Fluent in English at a native level, combined with my experience in effectively working with remote teams, allows me to communicate and contribute to any project seamlessly.
+**Fluent in English** at a native level, combined with my experience in effectively working with **remote teams**, allows me to communicate and contribute to any project seamlessly.
 
 🛠 Skills
 

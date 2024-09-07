@@ -20,4 +20,3 @@ RESPONSIVE WEB DESIGN  |
 GIT, GITHUB
 
 
-![Profile views](https://gpvc.arturio.dev/luka-vlahovic-0)

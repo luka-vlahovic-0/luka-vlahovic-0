@@ -18,3 +18,6 @@ JAVASCRIPT (ES6+)  |
 HTML5, CSS3  |
 RESPONSIVE WEB DESIGN  |
 GIT, GITHUB
+
+
+![Profile views](https://gpvc.arturio.dev/luka-vlahovic-0)

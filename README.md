@@ -8,6 +8,9 @@ You can contact me via **[LinkedIn](https://www.linkedin.com/in/luka-vlahovic-65
 
 **Fluent in English** at a native level, combined with my experience in effectively working with **remote teams**, allows me to communicate and contribute to any project seamlessly.
 
+![Profile views](https://komarev.com/ghpvc/?username=luka-vlahovic-0&label=PROFILE%20VIEWS&color=blue&style=flat)
+
+
 🛠 Skills
 
 REACT.JS  |

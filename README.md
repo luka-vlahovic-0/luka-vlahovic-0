@@ -1,4 +1,4 @@
-#### Frontend React Developer 
+#### **Frontend React Developer**
 
 ## **About Me**
 

@@ -2,7 +2,7 @@
 
 ## **About Me**
 
-As a seasoned **Frontend React Developer** with over **five years of experience**, I bring a deep understanding of modern web development, specializing in **React**, **TypeScript**, **TailwindCSS**, **Next.js**, and **Redux**. I have contributed to numerous web projects since 2019.
+As a **Senior Frontend Developer** with over **six years of experience**, I bring a deep understanding of modern web development, specializing in **React**, **TypeScript**, **Next.js**, and **Redux**. I have contributed to numerous web projects since 2019.
 
 You can contact me via **[LinkedIn](https://www.linkedin.com/in/luka-vlahovic-657162281/)**, **[email](mailto:lukavlahovic72@gmail.com)** or check out my **[personal website](https://lukavlahovic.com)**.
 
